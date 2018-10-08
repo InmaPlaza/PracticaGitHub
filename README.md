@@ -9,3 +9,6 @@ Practica 2.2 Herramienta Git
 
 ## Version 1.0.1
 - src/caracteristicas.html
+
+## Version 1.0.3
+- src/page2.html
